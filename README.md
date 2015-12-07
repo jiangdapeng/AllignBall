@@ -6,7 +6,9 @@ AllignBall 简称 AB，是一个用javascript,html,css编写的小游戏
 
 ## 游戏截图
 
-![image](https://)
+![image](https://raw.githubusercontent.com/jiangdapeng/AllignBall/master/imageForReadMe/gamestart.PNG)
+
+![image](https://raw.githubusercontent.com/jiangdapeng/AllignBall/master/imageForReadMe/game1.PNG)
 
 ## 涉及到数据结构和算法
 
